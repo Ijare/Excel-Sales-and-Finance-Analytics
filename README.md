@@ -11,6 +11,7 @@ This project focuses on utilizing Excel 📊 to create comprehensive Sales Analy
  - A detailed analysis of net sales for individual customers across three years (2019, 2020, 2021). The report compares the sales performance of 2021 vs. 2020, providing insights into customer trends and business growth.
 ##### 2. Country (Market) vs Target Report 🌍:
 - This report breaks down net sales by country 🌏, comparing the actual sales for 2021 with the set targets 🎯, highlighting any differences or areas for improvement.
+- https://github.com/Ijare/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf
 ### Finance Analytics 💰:
 ##### 1. Profit and Loss (P&L) Reports by Fiscal Year & Month 📅:
 - Create P&L reports segmented by fiscal year and months to evaluate the financial performance over time.
