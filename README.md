@@ -9,6 +9,7 @@ This project focuses on utilizing Excel 📊 to create comprehensive Sales Analy
 ### Sales Analytics 📈:
 ##### 1. Customer Performance Report 📊:
  - A detailed analysis of net sales for individual customers across three years (2019, 2020, 2021). The report compares the sales performance of 2021 vs. 2020, providing insights into customer trends and business growth.
+ - https://github.com/Ijare/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf
 ##### 2. Country (Market) vs Target Report 🌍:
 - This report breaks down net sales by country 🌏, comparing the actual sales for 2021 with the set targets 🎯, highlighting any differences or areas for improvement.
 - https://github.com/Ijare/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf
