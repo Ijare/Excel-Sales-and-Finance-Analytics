@@ -16,6 +16,7 @@ This project focuses on utilizing Excel 📊 to create comprehensive Sales Analy
 ### Finance Analytics 💰:
 ##### 1. Profit and Loss (P&L) Reports by Fiscal Year & Month 📅:
 - Create P&L reports segmented by fiscal year and months to evaluate the financial performance over time.
+- https://github.com/Ijare/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 ##### 2. Profit and Loss (P&L) Reports by Market 🌍:
 - Create P&L reports for specific markets to assess performance on a regional level.
 ### Purpose and Importance of Analytics 🔍:
