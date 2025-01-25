@@ -20,6 +20,7 @@ This project focuses on utilizing Excel 📊 to create comprehensive Sales Analy
 - https://github.com/Ijare/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 ##### 2. Profit and Loss (P&L) Reports by Market 🌍:
 - Create P&L reports for specific markets to assess performance on a regional level.
+- https://github.com/Ijare/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20statements%20by%20Markets.pdf
 ### Purpose and Importance of Analytics 🔍:
 #### Sales Analytics 📊:
 ##### Purpose: 
